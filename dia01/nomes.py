@@ -8,3 +8,4 @@ print("Fodase!")
 
 # %%
 print("Mais um comando maravilhoso!")
+# %%
