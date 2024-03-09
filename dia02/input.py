@@ -14,3 +14,4 @@ print(soma)
 # %%
 print("Téo" + "Calvo") # -> "TéoCalvo"
 print("10" + "30") # -> "1030"
+# %%
